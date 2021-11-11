@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Potato Head</string>
+    <string name="heading">Build Your Potato Head</string>
+    <string name="female">Female Potato Head</string>
+    <string name="male">Male Potato Head</string>
+    <string name="glasses">Glasses</string>
+    <string name="hat">Hat</string>
+    <string name="mustache">Mustache</string>
+    <string name="earrings">Earrings</string>
+    <string name="pickPersonality">Pick the Potato\'s Personality</string>
+    <string-array name="personality">
+        <item>Goofy</item>
+        <item>Professional</item>
+        <item>Sassy</item>
+    </string-array>
+    <string name ="hairy">Hairy</string>
+    <string name ="button">Make my Potato Head</string>
+</resources>
